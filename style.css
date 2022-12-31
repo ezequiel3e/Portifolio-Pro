@@ -362,4 +362,33 @@ footer {
   .project-info {
     width: 80%;
   }
+ .main-sobre p {
+  
+margin-left: 20px;
+text-align: center;
+margin-bottom: 10px;
+  
+}
+
+.redes a img{
+margin-right: 20px;
+
+}
+.redes .likedin{
+margin-right: 25px;
+
+}
+#Sobre h2{
+padding-right: 30px;
+
+}
+#contact{
+padding-bottom: 98px;
+
+}
+.home-img {
+padding-top: 100px;
+
+}
+ 
 }
