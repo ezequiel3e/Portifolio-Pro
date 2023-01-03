@@ -126,9 +126,6 @@ button:hover{
 }
 
 
-
-
-
 .home-img {
   width: 30%;
   display: flex;
@@ -154,6 +151,13 @@ button:hover{
 }
 
 /* PROJECTS */
+.projetos-main{
+display: flex;
+flex-direction: column;
+align-items: center;
+padding-top: 10px;
+gap: 15px;
+}
 
 section#projects {
   height: calc(100vh + 80px);
